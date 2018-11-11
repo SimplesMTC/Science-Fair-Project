@@ -1,0 +1,8 @@
+{
+    "name": "URL Recorder",
+    "version": "0.1",
+    "description": "It Record URL's and submit them onto the server!",
+    "permissions": ["storage","tabs"],
+    
+    "manifest_version": 2
+  }
