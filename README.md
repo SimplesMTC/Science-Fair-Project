@@ -1,1 +1,1 @@
-# Science-Fair-Project
+# This is a school project!
